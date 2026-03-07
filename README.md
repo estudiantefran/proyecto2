@@ -8,5 +8,6 @@ een este curso vemos de todo:
 - el flujo de trabajo en git hub 
 - el verdadero maor por la practicas
 - truco muy locos del profesor 
+*creado por el increible fjnavarro
 - la personalidad multiple de francisco 
 y con un amable recordatorio:"**este  readme es un chiste **. diseñado para  el ejemplo. si llega aca no lo tomes en serio y mejor ve a ver el curso 
